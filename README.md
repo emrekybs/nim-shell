@@ -1,6 +1,9 @@
 # Nim-Shell
 Reverse shell that can bypass windows defender detection
 
+# installation
+sudo apt install nim
+
 # Compilation
 nim c -d:mingw --app:gui nimshell.nim
 
