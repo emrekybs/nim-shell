@@ -15,4 +15,4 @@ Change the IP address and port number you want to listen to according to your de
 <img src="https://github.com/emrekybs/nim-shell/blob/main/2.png">
 
 and listen
-nc -nvlp 4444
+$ nc -nvlp 4444
