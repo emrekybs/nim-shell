@@ -5,5 +5,5 @@ Reverse shell that can bypass windows defender detection
 nim c -d:mingw --app:gui nimshell.nim
 
 
-<img src="https://github.com/emrekybs/Bryobio/blob/main/1.png">
-<img src="https://github.com/emrekybs/Bryobio/blob/main/3.png">
+<img src="https://github.com/emrekybs/nim-shell/blob/main/1.png">
+<img src="https://github.com/emrekybs/nim-shell/blob/main/2.png">
