@@ -1,5 +1,3 @@
-# emrekybs
-
 import net, os, osproc, strutils
 
 proc executeCommand(command: string): string =
