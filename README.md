@@ -2,7 +2,7 @@
 # Nim-Shell
 Reverse shell that can bypass windows defender detection
 
-Please do not upload to virus total
+# Please do not upload to VirusTotal
 
 # 𝗜𝗡𝗦𝗧𝗔𝗟𝗟𝗔𝗧𝗜𝗢𝗡 𝗜𝗡𝗦𝗧𝗥𝗨𝗖𝗧𝗜𝗢𝗡𝗦
     $ apt install nim
