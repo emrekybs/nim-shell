@@ -1,6 +1,7 @@
 [![EmreKybs](https://img.shields.io/badge/MadeBy-EmreKybs-yellow)
 # Nim-Shell
-Reverse shell that can bypass windows defender detection
+<img src="https://github.com/emrekybs/nim-shell/blob/main/nim.png">
+Reverse shell that can bypass EDR and windows defender detection
 
 # Please do not upload to VirusTotal
 
